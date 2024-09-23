@@ -29,8 +29,8 @@ Also use discord for discussing solutions to any issues popping up.
 - generate the necessary files to run the code, not just the function
   
 #### Documentation:
-- markdown file explaining how to run the code
-- markdown file explaining physics
+- markdown file explaining [how to run the code](https://github.com/iamtomato761/CP1-24-HW1/blob/iamtomato761-reorganization/HowToRun.md)
+- markdown file explaining [physics](https://github.com/iamtomato761/CP1-24-HW1/blob/iamtomato761-reorganization/Physics_Documentation.md)
 - docstrings inside the python file
 
 ## Grading
